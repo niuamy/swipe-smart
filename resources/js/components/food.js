@@ -7,3 +7,5 @@ function FoodItem(name, cost, location) {
 
     return food;
 }
+
+export default FoodItem;
